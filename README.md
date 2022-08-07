@@ -13,6 +13,7 @@
 
 
 
+<img width="617" alt="github profile pic" src="https://user-images.githubusercontent.com/110137430/183274682-e477f4ee-092f-4867-afb5-1cfd7d2273d6.png">
 
 
 
@@ -22,6 +23,7 @@
 
 
 
+![image](https://user-images.githubusercontent.com/110137430/183274707-43dd3065-99a8-434f-b071-d93e89e7a866.png)
 
 
 
@@ -30,6 +32,7 @@
 🎓Im looking to collaborate or get deeper into the web3 technology and create websites and apps that will allow easy access and flow for any one accessing my programs.
 
 
+![image](https://user-images.githubusercontent.com/110137430/183274736-ad3cfc47-3f46-4e91-93ce-de2780a962c7.png)
 
 
  📫 You can reach me through email at Garcialife11@yahoo.com
